@@ -1,1 +1,1 @@
-# procedural-programming
+# procedural-programming-tutorial
